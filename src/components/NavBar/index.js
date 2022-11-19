@@ -51,7 +51,7 @@ function NavBar() {
               spy={true}
               smooth={true}
             >
-              ALEXA STEF
+             ASRA BILAL
             </Link>
           </li>
           <li className="nav-item navbar-text">

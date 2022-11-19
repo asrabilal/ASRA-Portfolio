@@ -1,5 +1,5 @@
 import React from "react";
-import MeOnWater from "../../img/portrait.jpg";
+import  "../../img/asrapic.jpg";
 import "./style.css";
 
 function About() {
@@ -8,7 +8,7 @@ function About() {
         <div className="viewThree" id="about">
             <div className="row">
                 <div className="col-md about-left">
-                    <img src={MeOnWater} className="about-photo img-fluid" alt="Me"></img>
+                    <img src={"asrapic.jpg"} className="about-photo img-fluid" alt="Me"></img>
                 </div>
                 <div className="col-md">
                     <h3 className="viewTitle" id="aboutTitle">ABOUT</h3>
@@ -36,3 +36,6 @@ function About() {
 }
 
 export default About;
+
+
+

@@ -11,7 +11,7 @@ function MainPage() {
       <div className="col-md">
         <div className="mobile-image"></div>
         <div className="intro-text alignCenter">
-          <h2 className="mobile-title">ALEXA STEF</h2>
+          <h2 className="mobile-title">Asra Bilal</h2>
           <br></br>
           <h2 className="intro">Web Developer</h2>
           <br></br>

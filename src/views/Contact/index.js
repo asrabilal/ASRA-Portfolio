@@ -1,4 +1,5 @@
 import React from "react";
+// eslint-disable-next-line no-unused-vars
 import ContactForm from "../../components/ContactForm";
 import SocialLinks from "../../components/SocialLinks";
 import "./style.css";
